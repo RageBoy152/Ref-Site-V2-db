@@ -1,6 +1,7 @@
 [
     {
         "refId": 0,
+        "fileType": ".png",
         "category": "spacex/starship/stage2",
         "title": "S24 Side View",
         "description": "This here is a description of the above reference image. The description is used to add additional details about what the reference illustrates and also additional context where the image does not provide. This is also some excess text to demonstrate the description expand button feature.",
@@ -12,6 +13,7 @@
     },
     {
         "refId": 1,
+        "fileType": ".jpg",
         "category": "spacex/starship/stage2",
         "title": "S24 Top Side View",
         "description": "This is another reference. I am doing all these for tests so your probably not reading all of this. It's quite hard to actually write and make up something that doesn't really make sense.",
