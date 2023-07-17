@@ -1,0 +1,31 @@
+[
+    {
+        "refId": 0,
+        "comments": [
+            {
+                "commentId": 0,
+                "commenterId": "693191740961718420",
+                "commentedAt": "17/07/23@11:40",
+                "commentBody": "This here is a comment. The comment is used to comment a particular users views on a post. Posted comments are visible to all users however, only logged in users can add a comment of their own or reply to a comment. All users can contribute to a comments rating.",
+                "commentRating": 0,
+                "commentReplies": []
+            },
+            {
+                "commentId": 1,
+                "commenterId": "693191740961718420",
+                "commentedAt": "17/07/23@11:44",
+                "commentBody": "This here is another comment. The comment is used to comment a particular users views on a post. Posted comments are visible to all users however, only logged in users can add a comment of their own or reply to a comment. All users can contribute to a comments rating.",
+                "commentRating": 0,
+                "commentReplies": [
+                    {
+                        "commentId": 2,
+                        "commenterId": "693191740961718420",
+                        "commentedAt": "17/07/23@11:45",
+                        "commentBody": "This here is a reply.",
+                        "commentRating": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
